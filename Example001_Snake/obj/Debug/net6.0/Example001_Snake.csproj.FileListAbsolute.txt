@@ -1,0 +1,15 @@
+C:\Users\gkgam\OneDrive\Рабочий стол\c-sharp\game\Example001_Snake\bin\Debug\net6.0\Example001_Snake.exe
+C:\Users\gkgam\OneDrive\Рабочий стол\c-sharp\game\Example001_Snake\bin\Debug\net6.0\Example001_Snake.deps.json
+C:\Users\gkgam\OneDrive\Рабочий стол\c-sharp\game\Example001_Snake\bin\Debug\net6.0\Example001_Snake.runtimeconfig.json
+C:\Users\gkgam\OneDrive\Рабочий стол\c-sharp\game\Example001_Snake\bin\Debug\net6.0\Example001_Snake.dll
+C:\Users\gkgam\OneDrive\Рабочий стол\c-sharp\game\Example001_Snake\bin\Debug\net6.0\Example001_Snake.pdb
+C:\Users\gkgam\OneDrive\Рабочий стол\c-sharp\game\Example001_Snake\obj\Debug\net6.0\Example001_Snake.csproj.AssemblyReference.cache
+C:\Users\gkgam\OneDrive\Рабочий стол\c-sharp\game\Example001_Snake\obj\Debug\net6.0\Example001_Snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gkgam\OneDrive\Рабочий стол\c-sharp\game\Example001_Snake\obj\Debug\net6.0\Example001_Snake.AssemblyInfoInputs.cache
+C:\Users\gkgam\OneDrive\Рабочий стол\c-sharp\game\Example001_Snake\obj\Debug\net6.0\Example001_Snake.AssemblyInfo.cs
+C:\Users\gkgam\OneDrive\Рабочий стол\c-sharp\game\Example001_Snake\obj\Debug\net6.0\Example001_Snake.csproj.CoreCompileInputs.cache
+C:\Users\gkgam\OneDrive\Рабочий стол\c-sharp\game\Example001_Snake\obj\Debug\net6.0\Example001_Snake.dll
+C:\Users\gkgam\OneDrive\Рабочий стол\c-sharp\game\Example001_Snake\obj\Debug\net6.0\refint\Example001_Snake.dll
+C:\Users\gkgam\OneDrive\Рабочий стол\c-sharp\game\Example001_Snake\obj\Debug\net6.0\Example001_Snake.pdb
+C:\Users\gkgam\OneDrive\Рабочий стол\c-sharp\game\Example001_Snake\obj\Debug\net6.0\Example001_Snake.genruntimeconfig.cache
+C:\Users\gkgam\OneDrive\Рабочий стол\c-sharp\game\Example001_Snake\obj\Debug\net6.0\ref\Example001_Snake.dll
